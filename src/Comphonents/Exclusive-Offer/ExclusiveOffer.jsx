@@ -3,7 +3,7 @@ const ExclusiveOffer = () => {
     <div className="md:flex p-5 bg-gradient-to-br from-blue-500 to-blue-100">
       <div className="md:w-1/2 flex items-center md:p-7">
         <div className="">
-          <h1 className="text-6xl font-bold">Exclusive Offers Only For You</h1>
+          <h1 className="text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-yellow-500 to-red-500">Exclusive Offers Only For You</h1>
           <p className="text-xl font-semibold">
             Only on the best selling products
           </p>

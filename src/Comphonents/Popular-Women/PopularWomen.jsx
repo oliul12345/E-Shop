@@ -3,7 +3,8 @@ const PopularWomen = () => {
   console.log(popularWomenData);
 
   return (
-    <div>
+    <div className="md:mt-10">
+        <h1 className="text-3xl md:text-6xl font-bold text-center my-4 bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-blue-500">Popular Women <br /> Collections</h1>
       <div className="md:grid md:grid-cols-4 gap-4 ">
         {popularWomenData.map((product) => (
 

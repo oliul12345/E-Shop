@@ -28,7 +28,7 @@ const Hero = () => {
                 </div>
                 <div className='md:w-1/2 p-6'>
                     <p>New Arrivals</p>
-                    <div className= 'text-5xl md:text-7xl font-bold space-y-4'> <p className='flex items-center'>New <span><img className='w-10' src="/public/Ecommerce_Frontend_Assets/Assets/hand_icon.png" alt="" /></span></p> <p> Collection</p> <p>For EveryOne</p></div>
+                    <div className= 'text-5xl md:text-7xl font-bold space-y-4'> <p className='flex items-center bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500'>New <span><img className='w-10 ' src="/public/Ecommerce_Frontend_Assets/Assets/hand_icon.png" alt="" /></span></p> <p className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500'> Collection</p> <p className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500'>For EveryOne</p></div>
                     <button className='bg-red-500 p-3 text-white font-bold '>Latest Collection</button>
                 </div>
             </div>
@@ -40,7 +40,7 @@ const Hero = () => {
                 </div>
                 <div className='md:w-1/2 p-6'>
                     <p>New Arrivals</p>
-                    <div className= 'text-5xl md:text-7xl font-bold space-y-4'> <p className='flex items-center'>New <span><img className='w-10' src="/public/Ecommerce_Frontend_Assets/Assets/hand_icon.png" alt="" /></span></p> <p> Collection</p> <p>For EveryOne</p></div>
+                    <div className= 'text-5xl md:text-7xl font-bold space-y-4'> <p className='flex items-center bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500'>New <span><img className='w-10 ' src="/public/Ecommerce_Frontend_Assets/Assets/hand_icon.png" alt="" /></span></p> <p className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500'> Collection</p> <p className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500'>For EveryOne</p></div>
                     <button className='bg-red-500 p-3 text-white font-bold '>Latest Collection</button>
                 </div>
             </div>
